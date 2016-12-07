@@ -5,7 +5,7 @@ title: Seminario de Investigación
 
 # Seminario de Investigación
 
-### Segundo semestre 2016
+### Diciembre, 2016
 
 Lenny A. Romero, PhD    
 Andrés Marrugo, PhD    
