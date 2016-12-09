@@ -3,7 +3,6 @@
 ### Segundo semestre 2016
 
 Lenny A. Romero, PhD    
-Andrés Marrugo, PhD    
 *Universidad Tecnológica de Bolívar*
 
 ##  Objetivos y alcance
