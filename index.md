@@ -8,6 +8,7 @@ title: Seminario de Investigación
 ### Diciembre, 2016
 
 Lenny A. Romero, PhD    
+Andrés G. Marrugo, PhD
 *Universidad Tecnológica de Bolívar*
 
 ##  Objetivos y alcance
@@ -30,20 +31,32 @@ Al final de este módulo, los estudiantes estarán en capacidad de:
 En la primera parte de estaremos discutiendo los aspectos generales sobre el uso de la estadística en investigación, sobre la necesidad de publicar y cómo comunicar los resultados. En la segunda parte, analizaremos un artículo científico en donde se abaracan distinto aspectos de una investigación aplicada y haremos especial énfasis en el uso de herramientas estadísticas.
 
 
-[Diapositivas tema 1]()
+[Diapositivas - presentación](https://www.dropbox.com/s/hxtbs2xpz80niaj/presentacion-inicial.pdf?dl=0)
+[Dipositivas - Estadística en la Investigacón](https://www.dropbox.com/s/y5xkj0dl68t1ue9/estadistica-en-la-inv.pdf?dl=0)
+[Dipositivas - Pautas para la redacción de artículos científicos](https://www.dropbox.com/s/k6mth3edc55uay9/Pautas%20para%20la%20redacci%C3%B3n%20de%20art%C3%ADculos%20cient%C3%ADficos.pdf?dl=0)
 
 #### Lecturas y materiales
 
 - [Artículo Caracterización del café.](pdfs/24461-85726-1-PB.pdf)
 - [How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper "Infographic: How to read a scientific paper")
-- [Sobre la XX]()
 
 ### Tema 2: Sobre el análisis de clústers
 
-El análisis de clústers es una herramienta poderosa tanto para la descripción de datos como para la clasificación y ...
+El análisis de clústers es una herramienta poderosa tanto para la descripción de datos como para la clasificación.
 
 
 [Diapositivas tema 2]()
+
+#### Lecturas y materiales
+
+- [Artículo]()
+- [Sobre la XX]()
+
+### Tema 3: Ajuste de modelos con gran número de datos atípicos (RANSAC)
+
+Random sample consensus (RANSAC) és un método iterativo para calcular los parámetros de un modelo matemático de un conjunto de datos observados que contiene valores atípicos.
+
+[Diapositivas tema 3]()
 
 #### Lecturas y materiales
 
