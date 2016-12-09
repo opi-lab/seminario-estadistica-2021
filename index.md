@@ -34,7 +34,7 @@ En la primera parte de estaremos discutiendo los aspectos generales sobre el uso
 
 #### Lecturas y materiales
 
-- [Artículo Caracterización del café.](/pdfs/24461-85726-1-PB.pdf)
+- [Artículo Caracterización del café.](pdfs/24461-85726-1-PB.pdf)
 - [Sobre la XX]()
 
 ### Tema 2: Sobre el análisis de clústers
