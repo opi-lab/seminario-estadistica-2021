@@ -31,9 +31,9 @@ Al final de este módulo, los estudiantes estarán en capacidad de:
 En la primera parte de estaremos discutiendo los aspectos generales sobre el uso de la estadística en investigación, sobre la necesidad de publicar y cómo comunicar los resultados. En la segunda parte, analizaremos un artículo científico en donde se abaracan distinto aspectos de una investigación aplicada y haremos especial énfasis en el uso de herramientas estadísticas.
 
 
-[Diapositivas - presentación](https://www.dropbox.com/s/hxtbs2xpz80niaj/presentacion-inicial.pdf?dl=0)
-[Dipositivas - Estadística en la Investigacón](https://www.dropbox.com/s/y5xkj0dl68t1ue9/estadistica-en-la-inv.pdf?dl=0)
-[Dipositivas - Pautas para la redacción de artículos científicos](https://www.dropbox.com/s/k6mth3edc55uay9/Pautas%20para%20la%20redacci%C3%B3n%20de%20art%C3%ADculos%20cient%C3%ADficos.pdf?dl=0)
+[Diapositivas - presentación](https://www.dropbox.com/s/hxtbs2xpz80niaj/presentacion-inicial.pdf?dl=0)    
+[Dipositivas - Estadística en la Investigacón](https://www.dropbox.com/s/y5xkj0dl68t1ue9/estadistica-en-la-inv.pdf?dl=0)    
+[Dipositivas - Pautas para la redacción de artículos científicos](https://www.dropbox.com/s/k6mth3edc55uay9/Pautas%20para%20la%20redacci%C3%B3n%20de%20art%C3%ADculos%20cient%C3%ADficos.pdf?dl=0)    
 
 #### Lecturas y materiales
 
