@@ -35,6 +35,7 @@ En la primera parte de estaremos discutiendo los aspectos generales sobre el uso
 #### Lecturas y materiales
 
 - [Artículo Caracterización del café.](pdfs/24461-85726-1-PB.pdf)
+- [How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper "Infographic: How to read a scientific paper")
 - [Sobre la XX]()
 
 ### Tema 2: Sobre el análisis de clústers
