@@ -61,5 +61,5 @@ Random sample consensus (RANSAC) és un método iterativo para calcular los par�
 
 #### Lecturas y materiales
 
-- [Artículo]()
+- [Código](https://www.dropbox.com/s/ex534k9ssefdu5m/rasact_fitline_ex.m?dl=0)
 - [Sobre la XX]()
