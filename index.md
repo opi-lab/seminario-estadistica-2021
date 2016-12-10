@@ -32,7 +32,7 @@ En la primera parte de estaremos discutiendo los aspectos generales sobre el uso
 
 
 [Diapositivas - presentación](https://www.dropbox.com/s/hxtbs2xpz80niaj/presentacion-inicial.pdf?dl=0)    
-[Dipositivas - Estadística en la Investigacón](https://www.dropbox.com/s/y5xkj0dl68t1ue9/estadistica-en-la-inv.pdf?dl=0)    
+[Dipositivas - Estadística en la Investigación](https://www.dropbox.com/s/y5xkj0dl68t1ue9/estadistica-en-la-inv.pdf?dl=0)    
 [Dipositivas - Pautas para la redacción de artículos científicos](https://www.dropbox.com/s/k6mth3edc55uay9/Pautas%20para%20la%20redacci%C3%B3n%20de%20art%C3%ADculos%20cient%C3%ADficos.pdf?dl=0)    
 
 #### Lecturas y materiales
@@ -42,15 +42,14 @@ En la primera parte de estaremos discutiendo los aspectos generales sobre el uso
 
 ### Tema 2: Sobre el análisis de clústers
 
-El análisis de clústers es una herramienta poderosa tanto para la descripción de datos como para la clasificación.
+El análisis de clústers es una herramienta poderosa tanto para la descripción de datos como para la clasificación. En esta sesión trabajaremos sobre la implementación del k-means clustering y desarrollaremos unos ejercicios en matlab.
 
-
-[Diapositivas tema 2]()
+[Diapositivas tema 2](https://www.dropbox.com/s/jkr5kynw30rxkgr/Lecture-02-Unsupervised_Learning_and_Clustering.pdf?dl=0)
 
 #### Lecturas y materiales
 
-- [Artículo]()
-- [Sobre la XX]()
+- [Actividad 1](https://www.dropbox.com/s/5exzqunefhjjsle/actividad-1.pdf?dl=0)
+- [Datos y código](https://www.dropbox.com/s/5a4wh9j2238hw83/act-1.zip?dl=0)
 
 ### Tema 3: Ajuste de modelos con gran número de datos atípicos (RANSAC)
 
