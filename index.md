@@ -46,6 +46,8 @@ El análisis de clústers es una herramienta poderosa tanto para la descripción
 
 [Diapositivas tema 2](https://www.dropbox.com/s/jkr5kynw30rxkgr/Lecture-02-Unsupervised_Learning_and_Clustering.pdf?dl=0)
 
+[<mark> Enlace para la recepción de la actividad</mark> ](https://www.dropbox.com/request/2J4YGUUDlFODVpqOvRl3)
+
 #### Lecturas y materiales
 
 - [Actividad 1](https://www.dropbox.com/s/5exzqunefhjjsle/actividad-1.pdf?dl=0)
