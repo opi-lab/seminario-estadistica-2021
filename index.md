@@ -55,7 +55,7 @@ El análisis de clústers es una herramienta poderosa tanto para la descripción
 
 Random sample consensus (RANSAC) és un método iterativo para calcular los parámetros de un modelo matemático de un conjunto de datos observados que contiene valores atípicos.
 
-[Diapositivas tema 3]()
+[Diapositivas tema 3](https://www.dropbox.com/s/tnf7jhmfu1r6tbe/lec09_fitting.pdf?dl=0)
 
 #### Lecturas y materiales
 
