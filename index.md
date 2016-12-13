@@ -8,7 +8,7 @@ title: Seminario de Investigación
 ### Diciembre, 2016
 
 Lenny A. Romero, PhD    
-Andrés G. Marrugo, PhD
+Andrés G. Marrugo, PhD     
 *Universidad Tecnológica de Bolívar*
 
 ##  Objetivos y alcance
