@@ -1,8 +1,9 @@
 # Seminario de Investigación
 
-### Segundo semestre 2016
+### Segundo semestre 2018
 
-Lenny A. Romero, PhD    
+Lenny A. Romero, PhD      
+Andrés G. Marrugo, PhD    
 *Universidad Tecnológica de Bolívar*
 
 ##  Objetivos y alcance
