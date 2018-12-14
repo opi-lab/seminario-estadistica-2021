@@ -5,7 +5,7 @@ title: Seminario de Investigación
 
 # Seminario de Investigación
 
-### Diciembre, 2016
+### Diciembre, 2018
 
 Lenny A. Romero, PhD    
 Andrés G. Marrugo, PhD     
@@ -22,13 +22,14 @@ Al final de este módulo, los estudiantes estarán en capacidad de:
 - Entender las herramientas estadísticas más usadas en el modelamiento y procesamiento de información visual.
 - Tener una idea clara de los requerimientos y retos tecnológicos en la visión artificial.  
 - Resolver problemas básicos de procesamiento de información visual mediante la programación y el uso de software especializado.
+- Establecer analogías entre el procesamiento de imágenes y otras áreas aplicadas como el estudio de fenómenos espaciales y/o espacio-temporales en la epidemiología, geomática, economía, entre otras. 
 
 
 ## Temas
 
 ### Tema 1: Introducción
 
-En la primera parte de estaremos discutiendo los aspectos generales sobre el uso de la estadística en investigación, sobre la necesidad de publicar y cómo comunicar los resultados. En la segunda parte, analizaremos un artículo científico en donde se abaracan distinto aspectos de una investigación aplicada y haremos especial énfasis en el uso de herramientas estadísticas.
+En la primera parte de estaremos discutiendo los aspectos generales sobre el uso de la estadística en investigación, sobre la necesidad de publicar y cómo comunicar los resultados. En la segunda parte, analizaremos un artículo científico en donde se abarcan distinto aspectos de una investigación aplicada y haremos especial énfasis en el uso de herramientas estadísticas.
 
 
 [Diapositivas - presentación](https://www.dropbox.com/s/hxtbs2xpz80niaj/presentacion-inicial.pdf?dl=0)       
