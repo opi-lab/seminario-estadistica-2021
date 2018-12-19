@@ -40,6 +40,7 @@ En la primera parte de estaremos discutiendo los aspectos generales sobre el uso
 
 - [Artículo Caracterización del café.]({{site.url}}pdfs/24461-85726-1-PB.pdf)
 - [How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper "Infographic: How to read a scientific paper")
+- [<mark> Recepción de la actividad 1 en savio.</mark> ](http://savio.utbvirtual.edu.co/mod/assign/view.php?id=738385)
 
 ### Tema 2: Sobre el análisis de clústers
 
@@ -47,7 +48,7 @@ El análisis de clústers es una herramienta poderosa tanto para la descripción
 
 [Diapositivas tema 2](https://www.dropbox.com/s/jkr5kynw30rxkgr/Lecture-02-Unsupervised_Learning_and_Clustering.pdf?dl=0)
 
-[<mark> Enlace para la recepción de la actividad</mark> ](https://www.dropbox.com/request/EIRKaf5bSUVEpnlB3CNh)
+[<mark> Recepción de la actividad 2 en savio.</mark> ](http://savio.utbvirtual.edu.co/mod/assign/view.php?id=738386)
 
 #### Lecturas y materiales
 
