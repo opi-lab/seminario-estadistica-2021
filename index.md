@@ -55,7 +55,19 @@ El análisis de clústers es una herramienta poderosa tanto para la descripción
 - [Actividad 1](https://www.dropbox.com/s/5exzqunefhjjsle/actividad-1.pdf?dl=0)
 - [Datos y código](https://www.dropbox.com/s/5a4wh9j2238hw83/act-1.zip?dl=0)
 
-### Tema 3: Ajuste de modelos con gran número de datos atípicos (RANSAC)
+### Tema 3: Estadística espacial y detección de cambios en imágenes
+
+Un breve tour sobre la estadística espacial y su uso para la detección de cambios en imágenes.
+
+[Diapositivas tema 3]()
+
+#### Lecturas y materiales
+
+- [Artículo restauración de imágen médica](https://www.dropbox.com/s/bbc3jf6b2wz4ehj/J._Biomed._Opt._Marrugo_2011.pdf?dl=0)
+- [Código matlab](https://www.dropbox.com/s/wqh91deq7bqxvss/deconv_preprocessing.zip?dl=0)
+
+
+<!-- ### Tema 3: Ajuste de modelos con gran número de datos atípicos (RANSAC)
 
 Random sample consensus (RANSAC) és un método iterativo para calcular los parámetros de un modelo matemático de un conjunto de datos observados que contiene valores atípicos.
 
@@ -64,4 +76,4 @@ Random sample consensus (RANSAC) és un método iterativo para calcular los par�
 #### Lecturas y materiales
 
 - [Código RANSAC](https://www.dropbox.com/s/2vmi4k6y2gp8su3/ransac_example.zip?dl=0)
-- [imagen](https://www.dropbox.com/s/8zr70dujblku3sz/sheet.jpg?dl=0)
+- [imagen](https://www.dropbox.com/s/8zr70dujblku3sz/sheet.jpg?dl=0) -->
