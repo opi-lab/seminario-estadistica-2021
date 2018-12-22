@@ -64,6 +64,7 @@ Un breve tour sobre la estadística espacial y su uso para la detección de camb
 #### Lecturas y materiales
 
 - [Artículo restauración de imágen médica](https://www.dropbox.com/s/bbc3jf6b2wz4ehj/J._Biomed._Opt._Marrugo_2011.pdf?dl=0)
+- [Artículo algoritmos Bayesianos para detección de cambios](https://www.dropbox.com/s/zlp786dzi7byj1t/Signal_Processing_Image_Communication_1995_Aach.pdf?dl=0)
 - [Código matlab](https://www.dropbox.com/s/wqh91deq7bqxvss/deconv_preprocessing.zip?dl=0)
 
 
