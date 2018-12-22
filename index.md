@@ -59,7 +59,7 @@ El análisis de clústers es una herramienta poderosa tanto para la descripción
 
 Un breve tour sobre la estadística espacial y su uso para la detección de cambios en imágenes.
 
-[Diapositivas tema 3]()
+[Diapositivas tema 3](https://www.dropbox.com/s/g1lokk5944pcmxv/Lecture-03-spatial-statistics-change-detection.pdf?dl=0)
 
 #### Lecturas y materiales
 
