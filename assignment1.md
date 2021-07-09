@@ -19,8 +19,13 @@ El objetivo de esta tarea es reproducir el mismo análisis que el descrito en el
 1. En el [siguiente enlace](https://doi.org/10.17605/OSF.IO/YK8U5) encontrarás el repositorio con los datos originales del artículo y el script en formato R-Markdown ``.Rmd`` que puedes ejecutar en R-Studio localmente o en R-Studio Cloud si no lo tienes instalado en tu computador.
 2. Descarga la carpeta ``Measurement_data``. En esta encontrarás un ``README.pdf`` de lo que se obtiene al ejecutar el archivo ``README.Rmd`` y por último, los datos en formato csv ``SPT3D-PLOSONE.csv``.
 3. Verifica que puedas ejectuar todo el script y que los resultados sean iguales a los del archivo ``README.pdf``.
-4. Ahora deberás conseguir otro data-set que se indica a continuación para cada estudiante:  
+4. Ahora deberás conseguir otro data-set que se indica a continuación para cada estudiante.
+5. Utiliza el archivo R-Markdown como base, pero modíficalo a partir del dataset que te haya tocado. Actualiza todos los valores y vuelve a realizar los análisis. Al finalizar genera un PDF que deberás subir a SAVIO.
 
+
+## Data-sets
+
+A continuación encontrarás la distribución de los datasets por estudiantes. Para más información de los datasets pueder ir al siguiente [enlace](https://www-users.york.ac.uk/~mb55/datasets/datasets.htm#lancet1).
 
 | No | Nombre                     | Dataset    |
 |----|----------------------------|------------|
@@ -31,6 +36,22 @@ El objetivo de esta tarea es reproducir el mismo análisis que el descrito en el
 | 5  | OSORIO MOLINA, CARLOS A.   | data-set 2 |
 | 6  | PEREZ OVIEDO, LUIS A.      | data-set 3 |
 | 7  | SALAS PEÑA, MERY A.        | data-set 1 |
+
+
+### data-set 1
+Mediciones de saturación de oxígeno realizadas mediante un monitor de saturación de oxígeno y saturación de oxígeno por pulso (datos proporcionados por Hugh Sealey).
+
+[data-set 1](https://www-users.york.ac.uk/~mb55/datasets/sealey.dct)
+
+### data-set 2
+Mediciones de la presión arterial sistólica (mm Hg) realizadas con un brazalete estándar y un monitor de dedo (datos proporcionados por el Dr. A. Close).
+
+[data-set 2](https://www-users.york.ac.uk/~mb55/datasets/fingsys.dct)
+
+### data-set 3
+Contenido de grasa de la leche materna determinado por procedimiento enzimático para la determinación de triglicéridos y medido por el método estándar de Gerber (g / 100 ml).
+
+[data-set 3](https://www-users.york.ac.uk/~mb55/datasets/milkfat.dct)
 
 <!-- 
 
