@@ -1,22 +1,18 @@
 ---
 layout: page
-title: Assignment 3
-permalink: /assignment3/
+title: Tarea 1
+permalink: /assignment1/
 ---
 
-## Computer Vision - 2P2016
+## Seminario de investigación estadística - 2021
 
-## Assignment 3: Scale-space blob detection
+## Tarea 1: Análisis de Bland Altman
 
-### Due date: October 15, 11:59 PM
+### Fecha de entrega: Sábado 17 de julio de 2021
 
-![](https://dl.dropboxusercontent.com/u/5279729/tutorial/butterfly.jpg)
-![](https://dl.dropboxusercontent.com/u/5279729/tutorial/blobs_butterfly.gif)
+El objetivo de esta tarea es reproducir el mismo análisis que el descrito en el artículo de [Pineda et al., 2019][pineda] para la comparación de dos métodos de medición.
 
-The goal of the assignment is to implement a Laplacian blob detector as discussed in [this lecture.][lecture] Adapted from [S. Lazebni][lazebni].
-
-[lecture]: https://www.dropbox.com/s/v60jegnvetck34u/lec09_sift.pdf?dl=0
-[lazebni]: http://web.engr.illinois.edu/~slazebni/spring11/assignment3.html
+[pineda]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223623
 
 ## Algorithm outline
 
