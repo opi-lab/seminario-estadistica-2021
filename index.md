@@ -33,6 +33,10 @@ Una breve introducción al seminario en dónde estaremos discutiendo aspectos ge
 [Diapositivas - presentación](https://www.dropbox.com/s/9kdwhivtz2lghmy/presentacion-incial-2021.pdf?dl=0)
 
 
+### Tarea 1
+Análisis de Bland-Altman. **Fecha de entrega:** 2021-07-17.
+
+- [Tarea 1]({{site.url}}assignment1)
 
 
 <!--
