@@ -4,7 +4,7 @@ title: Tarea 1
 permalink: /assignment1/
 ---
 
-## Seminario de investigación estadística - 2021
+## Seminario de estadística - 2021
 
 ## Tarea 1: Análisis de Bland Altman
 
@@ -13,6 +13,26 @@ permalink: /assignment1/
 El objetivo de esta tarea es reproducir el mismo análisis que el descrito en el artículo de [Pineda et al., 2019][pineda] para la comparación de dos métodos de medición.
 
 [pineda]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223623
+
+## Instrucciones
+
+1. En el [siguiente enlace](https://doi.org/10.17605/OSF.IO/YK8U5) encontrarás el repositorio con los datos originales del artículo y el script en formato R-Markdown ``.Rmd`` que puedes ejecutar en R-Studio localmente o en R-Studio Cloud si no lo tienes instalado en tu computador.
+2. Descarga la carpeta ``Measurement_data``. En esta encontrarás un ``README.pdf`` de lo que se obtiene al ejecutar el archivo ``README.Rmd`` y por último, los datos en formato csv ``SPT3D-PLOSONE.csv``.
+3. Verifica que puedas ejectuar todo el script y que los resultados sean iguales a los del archivo ``README.pdf``.
+4. Ahora deberás conseguir otro data-set que se indica a continuación para cada estudiante:  
+
+
+| No | Nombre                     | Dataset    |
+|----|----------------------------|------------|
+| 1  | ARIZA GARCIA, AMAURY M.    | data-set 1 |
+| 2  | BENITEZ CAMACHO, ARTURO S. | data-set 2 |
+| 3  | CORREA GARCIA, MARIANELA   | data-set 3 |
+| 4  | GOMEZ PEREZ, EDWAR H.      | data-set 1 |
+| 5  | OSORIO MOLINA, CARLOS A.   | data-set 2 |
+| 6  | PEREZ OVIEDO, LUIS A.      | data-set 3 |
+| 7  | SALAS PEÑA, MERY A.        | data-set 1 |
+
+<!-- 
 
 ## Algorithm outline
 
@@ -82,3 +102,6 @@ Your submission should consist of the following:
 
 - All your MATLAB code and output images in a single zip file. The filename should be **lastname_firstname_a3.zip**.
 - A brief report in a single PDF file with all your results and discussion. The filename should be **lastname_firstname_a3.pdf**.
+
+
+-->
