@@ -30,7 +30,7 @@ Al final de este módulo, los estudiantes estarán en capacidad de:
 ### Tema 1: Introducción
 Una breve introducción al seminario en dónde estaremos discutiendo aspectos generales sobre el uso de la estadística en investigación.
 
-[Diapositivas - presentación](https://www.dropbox.com/s/4q79jxh7dlyzbly/Presentacion-Inicial.pdf?dl=0)
+[Diapositivas - presentación](https://www.dropbox.com/s/9kdwhivtz2lghmy/presentacion-incial-2021.pdf?dl=0)
 
 
 
