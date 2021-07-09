@@ -19,8 +19,8 @@ Al final de este módulo, los estudiantes estarán en capacidad de:
 
 - Entender el rol de la estadística en la investigación aplicada.
 - Conocer los elementos esenciales de un artículo científico.
-- Entender las herramientas estadísticas más usadas en el modelamiento y procesamiento de información .
-- Tener una idea clara de los requerimientos y retos tecnológicos en la visión artificial.  
+- Entender las herramientas estadísticas más usadas en el modelamiento y procesamiento de información proveniente de señales y lecturas de instrumentos.
+- Tener una idea clara de los requerimientos y retos tecnológicos en el campo de la visión artificial y el procesamiento de imágenes.  
 - Resolver problemas básicos de procesamiento de información visual mediante la programación y el uso de software especializado.
 - Establecer analogías entre el procesamiento de imágenes y otras áreas aplicadas como el estudio de fenómenos espaciales y/o espacio-temporales en la epidemiología, geomática, economía, entre otras. 
 
