@@ -5,7 +5,7 @@ title: Seminario de Investigación
 
 # Seminario de Investigación
 
-### Diciembre, 2018
+### Julio de 2021
 
 Lenny A. Romero, PhD    
 Andrés G. Marrugo, PhD     
@@ -13,13 +13,13 @@ Andrés G. Marrugo, PhD
 
 ##  Objetivos y alcance
 
-Este módulo de la especialización en estadística aplicada es una introducción al uso de herramientas estadísticas en investigación en el campo de visión artificial. Nos concetraremos en los aspectos prácticos de algunas de las técnicas utilizadas en la tarea del procesamiento de información visual mediante computadores. 
+Este módulo de la especialización en estadística aplicada es una introducción al uso de herramientas estadísticas en investigación aplicada. Nos concetraremos en los aspectos prácticos sobre el uso de la estadística en algunas técnicas utilizadas en investigación biomédica, desarrollo de instrumentación, procesamiento de señales y visión artificial. 
 
 Al final de este módulo, los estudiantes estarán en capacidad de:
 
 - Entender el rol de la estadística en la investigación aplicada.
 - Conocer los elementos esenciales de un artículo científico.
-- Entender las herramientas estadísticas más usadas en el modelamiento y procesamiento de información visual.
+- Entender las herramientas estadísticas más usadas en el modelamiento y procesamiento de información .
 - Tener una idea clara de los requerimientos y retos tecnológicos en la visión artificial.  
 - Resolver problemas básicos de procesamiento de información visual mediante la programación y el uso de software especializado.
 - Establecer analogías entre el procesamiento de imágenes y otras áreas aplicadas como el estudio de fenómenos espaciales y/o espacio-temporales en la epidemiología, geomática, economía, entre otras. 
@@ -28,11 +28,20 @@ Al final de este módulo, los estudiantes estarán en capacidad de:
 ## Temas
 
 ### Tema 1: Introducción
+Una breve introducción al seminario en dónde estaremos discutiendo aspectos generales sobre el uso de la estadística en investigación.
+
+[Diapositivas - presentación](https://www.dropbox.com/s/4q79jxh7dlyzbly/Presentacion-Inicial.pdf?dl=0)
+
+
+
+
+<!--
+### Tema 1: Introducción
 
 En la primera parte de estaremos discutiendo los aspectos generales sobre el uso de la estadística en investigación, sobre la necesidad de publicar y cómo comunicar los resultados. En la segunda parte, analizaremos un artículo científico en donde se abarcan distinto aspectos de una investigación aplicada y haremos especial énfasis en el uso de herramientas estadísticas.
 
 
-[Diapositivas - presentación](https://www.dropbox.com/s/4q79jxh7dlyzbly/Presentacion-Inicial.pdf?dl=0)       
+       
 [Dipositivas - Estadística en la Investigación](https://www.dropbox.com/s/y5xkj0dl68t1ue9/estadistica-en-la-inv.pdf?dl=0)      
 [Dipositivas - Pautas para la redacción de artículos científicos](https://www.dropbox.com/s/k6mth3edc55uay9/Pautas%20para%20la%20redacci%C3%B3n%20de%20art%C3%ADculos%20cient%C3%ADficos.pdf?dl=0)        
 
@@ -68,7 +77,7 @@ Un breve tour sobre la estadística espacial y su uso para la detección de camb
 - [Código matlab](https://www.dropbox.com/s/wqh91deq7bqxvss/deconv_preprocessing.zip?dl=0)
 
 
-<!-- ### Tema 3: Ajuste de modelos con gran número de datos atípicos (RANSAC)
+### Tema 3: Ajuste de modelos con gran número de datos atípicos (RANSAC)
 
 Random sample consensus (RANSAC) és un método iterativo para calcular los parámetros de un modelo matemático de un conjunto de datos observados que contiene valores atípicos.
 
