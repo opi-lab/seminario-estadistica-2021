@@ -28,16 +28,32 @@ Al final de este módulo, los estudiantes estarán en capacidad de:
 ## Temas
 
 ### Tema 1: Introducción
-Una breve introducción al seminario en dónde estaremos discutiendo aspectos generales sobre el uso de la estadística en investigación.
+Una breve introducción al seminario en dónde estaremos discutiendo aspectos de la investigación del grupo FAPIS y su relación con la estadística.
 
-[Diapositivas - presentación](https://www.dropbox.com/s/9kdwhivtz2lghmy/presentacion-incial-2021.pdf?dl=0)
+[Diapositivas introducción](https://www.dropbox.com/s/9kdwhivtz2lghmy/presentacion-incial-2021.pdf?dl=0)
 
+### Tema 2: Midiendo pápulas - análisis de Bland-Altman
+Aquí revisaremos un artículo de investigación acerca de una medición biomédica a partir de dos métodos.
+
+[Diapositivas - tema 2](https://www.dropbox.com/s/4t6c44ntxpjf6vu/Lec02-midiendo-papulas.pdf?dl=0)
+
+#### Lecturas y materiales
+
+- [Artículo de medición de pápulas por 3D](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223623)
+- [Entendiendo Bland-Altman](https://hrcak.srce.hr/file/206210)
 
 ### Tarea 1
 Análisis de Bland-Altman. **Fecha de entrega:** 2021-07-17.
 
-- [Tarea 1]({{site.url}}assignment1)
+- [Descripción de la tarea 1.]({{site.url}}assignment1)
+- El informe en PDF se debe subir a SAVIO.
 
+
+### Tema 3: Sobre el análisis de clústers
+
+El análisis de clústers es una herramienta poderosa tanto para la descripción de datos como para la clasificación. En esta sesión trabajaremos sobre la implementación del k-means clustering y desarrollaremos unos ejercicios en matlab.
+
+[Diapositivas tema 2]()
 
 <!--
 ### Tema 1: Introducción
