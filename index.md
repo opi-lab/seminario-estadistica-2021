@@ -51,9 +51,32 @@ Análisis de Bland-Altman. **Fecha de entrega:** 2021-07-17.
 
 ### Tema 3: Sobre el análisis de clústers
 
-El análisis de clústers es una herramienta poderosa tanto para la descripción de datos como para la clasificación. En esta sesión trabajaremos sobre la implementación del k-means clustering y desarrollaremos unos ejercicios en matlab.
+El análisis de clústers es una herramienta poderosa tanto para la descripción de datos como para la clasificación. En esta sesión trabajaremos sobre la implementación del k-means clustering y desarrollaremos un ejercicio de clustering de una imagen.
 
-[Diapositivas tema 2]()
+[Diapositivas tema 3](https://www.dropbox.com/s/g7yoiqvxcq3l5y2/Lec03-Unsupervised_Learning_and_Clustering.pdf?dl=0)
+
+### Tema 4: Estadística espacial y detección de cambios en imágenes
+
+Un breve tour sobre la estadística espacial y su uso para la detección de cambios en imágenes.
+
+[Diapositivas tema 4](https://www.dropbox.com/s/j1nekjsjhl7smca/Lec04-spatial-statistics-change-detection.pdf?dl=0)
+
+#### Lecturas y materiales
+
+- [Artículo restauración de imágen médica](https://www.dropbox.com/s/bbc3jf6b2wz4ehj/J._Biomed._Opt._Marrugo_2011.pdf?dl=0)
+- [Artículo algoritmos Bayesianos para detección de cambios](https://www.dropbox.com/s/zlp786dzi7byj1t/Signal_Processing_Image_Communication_1995_Aach.pdf?dl=0)
+- [Código matlab](https://www.dropbox.com/s/wqh91deq7bqxvss/deconv_preprocessing.zip?dl=0)
+
+### Tema 5 (si alcanzamos): Ajuste de modelos con gran número de datos atípicos (RANSAC)
+
+Random sample consensus (RANSAC) és un método iterativo para calcular los parámetros de un modelo matemático de un conjunto de datos observados que contiene valores atípicos.
+
+[Diapositivas tema 5](https://www.dropbox.com/s/tnf7jhmfu1r6tbe/lec09_fitting.pdf?dl=0)
+
+#### Lecturas y materiales
+
+- [Código RANSAC](https://www.dropbox.com/s/2vmi4k6y2gp8su3/ransac_example.zip?dl=0)
+- [imagen](https://www.dropbox.com/s/8zr70dujblku3sz/sheet.jpg?dl=0)
 
 <!--
 ### Tema 1: Introducción
