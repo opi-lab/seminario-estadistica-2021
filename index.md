@@ -55,6 +55,11 @@ El análisis de clústers es una herramienta poderosa tanto para la descripción
 
 [Diapositivas tema 3](https://www.dropbox.com/s/g7yoiqvxcq3l5y2/Lec03-Unsupervised_Learning_and_Clustering.pdf?dl=0)
 
+### Actividad en clase
+
+- [Ejemplo de clustering](https://www.dropbox.com/s/xkvfwrvncx6jeen/clustering.zip?dl=0)
+- [Clustering de imágenes](https://www.dropbox.com/s/89nolrq9lho8cgm/clustering-imagen.zip?dl=0)
+
 ### Tema 4: Estadística espacial y detección de cambios en imágenes
 
 Un breve tour sobre la estadística espacial y su uso para la detección de cambios en imágenes.
