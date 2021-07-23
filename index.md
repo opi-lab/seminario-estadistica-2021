@@ -98,7 +98,7 @@ Revisaremos lo que debe tener todo artículo científico y algunos tips sobre su
 
 ### Actividad
 
-- [Artículo sobre visión artificial y clasificación](https://www.dropbox.com/s/t27a3h4mx7i28wq/a15v60n2.pdf?dl=0)
+- [Artículo sobre visión artificial y clasificación del café](https://www.dropbox.com/s/t27a3h4mx7i28wq/a15v60n2.pdf?dl=0)
 - [Preguntas para la interpretación](https://www.dropbox.com/s/n04lnyjl4dp832l/PREGUNTAS%20DE%20INTERPRETACION%20DEL%20ARTICULO%20CIENTIFICO%20TITULADO.pdf?dl=0)
 
 <!--
