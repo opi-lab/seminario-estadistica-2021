@@ -83,6 +83,24 @@ Random sample consensus (RANSAC) és un método iterativo para calcular los par�
 - [Código RANSAC](https://www.dropbox.com/s/2vmi4k6y2gp8su3/ransac_example.zip?dl=0)
 - [imagen](https://www.dropbox.com/s/8zr70dujblku3sz/sheet.jpg?dl=0)
 
+
+### Tema 6: El uso de la estadística en investigación
+
+Discutiremos sobre el uso de la estadística en investigación y especialmente nos detendremos a analizar lo relacionado con la representación visual de datos. 
+
+[Diapositivas tema 6](https://www.dropbox.com/s/yw21d1k528y9wwo/Estadistica%20en%20la%20Inv.pdf?dl=0)
+
+### Tema 7: Pautas para la redacción de artículos científicos
+
+Revisaremos lo que debe tener todo artículo científico y algunos tips sobre su redacción.
+
+[Diapositivas tema 7](https://www.dropbox.com/s/kl8npcpn62kiph8/Pautas%20para%20la%20redacci%C3%B3n%20de%20art%C3%ADculos%20cient%C3%ADficos.pdf?dl=0)
+
+### Actividad
+
+- [Artículo sobre visión artificial y clasificación](https://www.dropbox.com/s/t27a3h4mx7i28wq/a15v60n2.pdf?dl=0)
+- [Preguntas para la interpretación](https://www.dropbox.com/s/n04lnyjl4dp832l/PREGUNTAS%20DE%20INTERPRETACION%20DEL%20ARTICULO%20CIENTIFICO%20TITULADO.pdf?dl=0)
+
 <!--
 ### Tema 1: Introducción
 
