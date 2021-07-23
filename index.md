@@ -97,9 +97,11 @@ Revisaremos lo que debe tener todo artículo científico y algunos tips sobre su
 [Diapositivas tema 7](https://www.dropbox.com/s/kl8npcpn62kiph8/Pautas%20para%20la%20redacci%C3%B3n%20de%20art%C3%ADculos%20cient%C3%ADficos.pdf?dl=0)
 
 ### Tarea 2
+Análisis de un artículo. **Fecha de entrega:** 2021-07-27.
 
 - [Cuestinoario para la interpretación del artículo](https://www.dropbox.com/s/n04lnyjl4dp832l/PREGUNTAS%20DE%20INTERPRETACION%20DEL%20ARTICULO%20CIENTIFICO%20TITULADO.pdf?dl=0)
 - [Artículo sobre visión artificial y clasificación del café](https://www.dropbox.com/s/t27a3h4mx7i28wq/a15v60n2.pdf?dl=0)
+- El informe en PDF se debe subir a SAVIO.
 
 
 <!--
